@@ -4,16 +4,8 @@
 
 推荐使用 Conda：
 
-conda create -n dem_system python=3.9 -y
-conda activate dem_system
-或者使用：
-python3.9 -m venv dem_system
-
-# Linux / Mac
-source dem_system/bin/activate
-
-# Windows
-dem_system\Scripts\activate
+conda create -n env_name python=3.9 -y
+conda activate  env_name
 
 ### 2. 安装依赖
 在项目根目录执行：
@@ -53,7 +45,7 @@ document_vector/
 
 激活虚拟环境后运行：
 
-conda activate dem_system
+conda activate  env_name
 streamlit run app.py
 
 

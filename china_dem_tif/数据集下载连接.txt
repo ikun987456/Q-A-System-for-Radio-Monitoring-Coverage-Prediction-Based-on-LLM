@@ -1,0 +1,8 @@
+Copernicus DEM地形高程数据集
+https://panda.copernicus.eu/panda
+CNBH-10 m建筑高度数据集
+https://zenodo.org/record/7827315
+ GlobeLand30地表覆盖类型数据集
+http://www.globallandcover.com/
+
+数据下载后存入china_dem_tif文件夹下

@@ -1,0 +1,2 @@
+https://huggingface.co/BAAI/bge-m3
+将下载后的文件存入bge-m3中

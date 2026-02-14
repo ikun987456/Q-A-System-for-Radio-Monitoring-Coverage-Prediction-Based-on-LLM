@@ -43,7 +43,9 @@ document_vector/ bge-m3/
 ### 四、安装MongoDB数据库
 
 
-前往https://www.mongodb.com/try/download/community下载MongoDB数据库，下载完成安装。
+前往https://www.mongodb.com/try/download/community 
+下载MongoDB数据库，下载完成安装。
+配置并启动MongoDb数据库服务。
 
 
 ### 五、启动系统

@@ -40,7 +40,13 @@ huggingface-cli download BAAI/bge-m3 --local-dir document_vector/bge-m3
 
 document_vector/ bge-m3/
 
-### 四、启动系统
+### 四、安装MongoDB数据库
+
+
+前往https://www.mongodb.com/try/download/community下载MongoDB数据库，下载完成安装。
+
+
+### 五、启动系统
 
 激活虚拟环境后运行：
 

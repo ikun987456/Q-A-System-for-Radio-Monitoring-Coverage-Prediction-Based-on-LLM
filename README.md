@@ -38,8 +38,7 @@ huggingface-cli download BAAI/bge-m3 --local-dir document_vector/bge-m3
 
 下载完成后目录结构应为：
 
-document_vector/
-└── bge-m3/
+document_vector/ bge-m3/
 
 ### 四、启动系统
 
